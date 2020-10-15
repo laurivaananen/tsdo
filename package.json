@@ -1,0 +1,13 @@
+{
+  "name": "tsdo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc index.ts",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
